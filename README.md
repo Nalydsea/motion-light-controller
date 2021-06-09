@@ -15,7 +15,7 @@ Wiring
 ======
 <table>
   <tr>
-    <th>Raspberry Pi</th>     <th>GY-521(HC-SR501)</th></tr>
+    <th>Raspberry Pi</th>     <th>HC-SR501</th></tr>
   <tr><td>5V</td><td>5V</td></tr>
   <tr><td>GND</td><td>GND</td></tr>
   <tr><td>8</td><td>OUT</td></tr>
