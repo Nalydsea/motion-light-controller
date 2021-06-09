@@ -1,6 +1,4 @@
-# motion-light-controller
-
-# MotionDetector
+# Motion Light Controller
 Raspberry Pi motion sensor can be placed in a room to detect motion then API request is sent to deCONZ via wiFi to turn on Zigbee LED lightbulb.
 
 Devices Used:
