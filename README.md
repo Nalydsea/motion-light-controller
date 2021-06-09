@@ -29,4 +29,6 @@ Improvements
 -----
 Separate battery powered motion sensor using ESP32
 
-Automated day and night brightness/colour shifting 
+Automated day and night brightness/colour shifting
+
+Add Ambient Light Sensor to adjust brightness 
